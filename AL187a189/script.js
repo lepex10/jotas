@@ -22,5 +22,21 @@ document.write('<br>')
 var data = new Date
 
 data.getDate()
+document.write(data)
+document.write('<br>')
 
-document.write(data);
+data.getDay()
+document.write(data)
+document.write('<br>')
+
+data.getHours
+document.write(data)
+document.write('<br>')
+
+data.getMonth
+document.write(data)
+document.write('<br>')
+
+data.getUTCDate
+document.write(data)
+document.write('<br>')
